@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KSS_MOBILE/static/css/main.6e60b1cc.css",
+    "main.js": "/KSS_MOBILE/static/js/main.6b2d03d9.js",
+    "static/media/entertainment and hospitality 1.png": "/KSS_MOBILE/static/media/entertainment and hospitality 1.28c3d9982d94442464ac.png",
+    "static/media/img3.jpg": "/KSS_MOBILE/static/media/img3.5af23289a6a727c87e95.jpg",
+    "static/media/customized solutions 1.png": "/KSS_MOBILE/static/media/customized solutions 1.35f74edf3e50264623dc.png",
+    "index.html": "/KSS_MOBILE/index.html",
+    "main.6e60b1cc.css.map": "/KSS_MOBILE/static/css/main.6e60b1cc.css.map",
+    "main.6b2d03d9.js.map": "/KSS_MOBILE/static/js/main.6b2d03d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e60b1cc.css",
+    "static/js/main.6b2d03d9.js"
+  ]
+}
